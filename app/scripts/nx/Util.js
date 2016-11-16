@@ -96,7 +96,7 @@ a.extend2 = function (Child, Parent) {
 };
 
 /**
- * Utility method for opening a game on game click
+ * Utility method for opening a poster on image click
  * @param ctx
  */
 a.subscribePosterClicks = function (ctx) {
