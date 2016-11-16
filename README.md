@@ -17,6 +17,7 @@ This is a sample Single Page Application using vanilla JavaScript:
 >> grunt serve
 ```
 
+### Screenshot:
 ![alt tag](http://nextinterfaces.com/i/single-page-app.jpg)
 
 
