@@ -11,10 +11,11 @@ This is a sample Single Page Application using vanilla JavaScript:
 
 ### Install:
 
+```
 >> npm install
 >> bower install
 >> grunt serve
-
+```
 
 ![alt tag](http://nextinterfaces.com/i/single-page-app.jpg)
 
