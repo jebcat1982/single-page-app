@@ -15,6 +15,10 @@ This is a sample Single Page Application using vanilla JavaScript:
 >> npm install
 >> bower install
 >> grunt serve
+   Alternatively use another lightweight web server
+>> node index.js 
+   Or
+>> python3 -m http.server 9000
 ```
 
 ### Screenshot:
